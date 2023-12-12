@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid 88ce7052-d7f2-40f4-898f-a46b8be1fb74)
+  (uuid 2722fd89-baf8-4d85-9a16-9b32f2884db2)
 
   (paper "A4")
 
@@ -358,7 +358,7 @@
     (property "Value" "Conn_02x03_Odd_Even" (at 205.74 99.06 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 204.47 105.41 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" (at 204.47 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 204.47 105.41 0)
@@ -391,7 +391,7 @@
     (property "Value" "Conn_01x09_Pin" (at 182.245 97.79 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 181.61 110.49 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical" (at 181.61 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 181.61 110.49 0)
@@ -427,7 +427,7 @@
     (property "Value" "Conn_01x04_Pin" (at 201.295 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 200.66 80.01 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (at 200.66 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 200.66 80.01 0)
@@ -458,7 +458,7 @@
     (property "Value" "Conn_01x04_Pin" (at 182.245 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 181.61 80.01 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (at 181.61 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 181.61 80.01 0)
