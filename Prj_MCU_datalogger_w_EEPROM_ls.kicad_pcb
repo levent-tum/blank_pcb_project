@@ -266,6 +266,11 @@
       (net 23 "Net-(U4-SQW{slash}~INT)") (pinfunction "SQW/~INT") (pintype "output") (solder_mask_margin 0.102) (tstamp c66d17b2-80a5-4e79-a2b9-26d92c49ea9e))
     (pad "8" smd roundrect (at 2.475 -1.905) (size 1.97 0.59) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.07)
       (net 2 "/Vcc") (pinfunction "VCC") (pintype "power_in") (solder_mask_margin 0.102) (tstamp 49c13c38-6a52-498c-90e9-cdaaf964e718))
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
@@ -901,7 +906,7 @@
       (net 1 "GND") (pinfunction "WP") (pintype "input") (tstamp d96be026-6ba6-4c8b-baf5-b66fe6c455e5))
     (pad "8" smd roundrect (at 3.6 -1.905) (size 1.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "/Vcc") (pinfunction "VCC") (pintype "power_in") (tstamp 94a669a3-58f1-4dc4-9568-c3f760700dae))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/SO-8_5.3x6.2mm_P1.27mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1154,7 +1159,7 @@
       (net 33 "Net-(U4-X1)") (pinfunction "1") (pintype "passive") (tstamp a7ecd164-df1f-4273-b622-e6566d8ab7e9))
     (pad "2" smd rect (at 2.6 0 270) (size 3.5 2.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 34 "Net-(U4-X2)") (pinfunction "2") (pintype "passive") (tstamp 5c6d6001-504e-4a98-8f36-ec76ba8fd45a))
-    (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Crystal.3dshapes/Crystal_SMD_0603-2Pin_6.0x3.5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1401,6 +1406,11 @@
       (net 11 "/TX") (pinfunction "PD1") (pintype "bidirectional") (solder_mask_margin 0.102) (tstamp 57405995-3897-41e7-bc46-c522d280a127))
     (pad "32" smd roundrect (at -2.8 -4.17) (size 0.55 1.47) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.18)
       (net 12 "/D2") (pinfunction "PD2") (pintype "bidirectional") (solder_mask_margin 0.102) (tstamp 6d5c3137-f3b3-4f05-a2cf-acda35755fce))
+    (model ":KICAD7_3DMODEL_DIR:Package_QFP.3dshapes/TQFP-32_7x7mm_P0.8mm.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
@@ -1524,7 +1534,7 @@
       (net 4 "Net-(U3-PB7)") (pinfunction "1") (pintype "passive") (tstamp ffdcae75-3836-4ac0-8d68-eec87631bdd0))
     (pad "2" smd rect (at 2.6 0) (size 3.5 2.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 3 "Net-(U3-PB6)") (pinfunction "2") (pintype "passive") (tstamp 2354cfea-2da7-4dfe-a93b-4e731ede5aa7))
-    (model "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Crystal.3dshapes/Crystal_SMD_0603-2Pin_6.0x3.5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1690,7 +1700,7 @@
       (net 1 "GND") (pinfunction "WP") (pintype "input") (tstamp 874d6713-ac25-437a-a5d3-021a2a5ed398))
     (pad "8" smd roundrect (at 3.6 -1.905) (size 1.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "/Vcc") (pinfunction "VCC") (pintype "power_in") (tstamp 29194e70-97f3-42d3-a7c2-f4244a5ae3f5))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/SO-8_5.3x6.2mm_P1.27mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
