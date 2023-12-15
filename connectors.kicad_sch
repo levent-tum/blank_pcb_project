@@ -349,11 +349,6 @@
   )
 
 
-  (wire (pts (xy 204.47 107.95) (xy 199.39 107.95))
-    (stroke (width 0) (type default))
-    (uuid 1aa38e3a-d31d-424e-b427-beab5bf664b0)
-  )
-
   (hierarchical_label "GND" (shape passive) (at 210.82 77.47 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 10f1024c-b58c-4ca9-879b-e29f1d765234)
@@ -386,7 +381,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6a02bc82-b92c-4cee-8ca8-eeb0f74a4a4b)
   )
-  (hierarchical_label "RESET" (shape output) (at 199.39 107.95 180) (fields_autoplaced)
+  (hierarchical_label "RESET" (shape output) (at 204.47 107.95 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 6dc5a9b0-2b24-4cb7-9b72-9e227c7a3e33)
   )
@@ -418,7 +413,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid a47b5e77-3bad-4cd0-ad95-2306896cbcbf)
   )
-  (hierarchical_label "SCK" (shape passive) (at 186.69 85.09 0) (fields_autoplaced)
+  (hierarchical_label "SCL" (shape passive) (at 186.69 85.09 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid aca4d285-d51d-4207-86b5-501004d34b45)
   )
